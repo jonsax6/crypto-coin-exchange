@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coin-exchange/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/coin-exchange/static/js/main.65854aab.chunk.js",
+    "main.js.map": "/coin-exchange/static/js/main.65854aab.chunk.js.map",
+    "runtime-main.js": "/coin-exchange/static/js/runtime-main.b415c7ed.js",
+    "runtime-main.js.map": "/coin-exchange/static/js/runtime-main.b415c7ed.js.map",
+    "static/js/2.a547d4dd.chunk.js": "/coin-exchange/static/js/2.a547d4dd.chunk.js",
+    "static/js/2.a547d4dd.chunk.js.map": "/coin-exchange/static/js/2.a547d4dd.chunk.js.map",
+    "static/js/3.38425533.chunk.js": "/coin-exchange/static/js/3.38425533.chunk.js",
+    "static/js/3.38425533.chunk.js.map": "/coin-exchange/static/js/3.38425533.chunk.js.map",
+    "index.html": "/coin-exchange/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/coin-exchange/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a547d4dd.chunk.js.LICENSE.txt": "/coin-exchange/static/js/2.a547d4dd.chunk.js.LICENSE.txt",
+    "static/media/candlestick.9353e5d2.png": "/coin-exchange/static/media/candlestick.9353e5d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b415c7ed.js",
+    "static/js/2.a547d4dd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.65854aab.chunk.js"
+  ]
+}
